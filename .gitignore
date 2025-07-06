@@ -1,0 +1,7 @@
+.idea
+logs
+target
+demo.iml
+demo-security-commons.iml
+demo-backend.iml
+demo-authorization-server.iml
